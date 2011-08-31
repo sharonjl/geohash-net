@@ -1,5 +1,9 @@
+geohash-net-test/bin
+geohash-net-test/obj
 geohash-net/bin
 geohash-net/obj
 _ReSharper.geohash-net
-geohash-net.*.ReSharper.*
+_ReSharper.geohash-net-test
+geohash-net*.ReSharper*
 *.suo
+*.bak
