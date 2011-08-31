@@ -1,7 +1,0 @@
-C:\Users\Sharon\Documents\Visual Studio 2010\Projects\geohash-net\geohash-test\bin\Debug\Geohash Test.exe
-C:\Users\Sharon\Documents\Visual Studio 2010\Projects\geohash-net\geohash-test\bin\Debug\Geohash Test.pdb
-C:\Users\Sharon\Documents\Visual Studio 2010\Projects\geohash-net\geohash-test\bin\Debug\Geohash.dll
-C:\Users\Sharon\Documents\Visual Studio 2010\Projects\geohash-net\geohash-test\bin\Debug\Geohash.pdb
-C:\Users\Sharon\Documents\Visual Studio 2010\Projects\geohash-net\geohash-test\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Sharon\Documents\Visual Studio 2010\Projects\geohash-net\geohash-test\obj\x86\Debug\Geohash Test.exe
-C:\Users\Sharon\Documents\Visual Studio 2010\Projects\geohash-net\geohash-test\obj\x86\Debug\Geohash Test.pdb
